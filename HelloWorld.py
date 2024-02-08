@@ -1,2 +1,4 @@
-# Making different change with this comment in main
-print("Hello World!")
+# Resolved merge conflict
+lst = ["Tanya", "Arav", "JC", "Jessica", "Michelle", "Andrew", "Anika"]
+for i in lst:
+    print("Hello " + i + "!")
